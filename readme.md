@@ -1,6 +1,3 @@
-«
-[![](https://visitcount.itsvg.in/api?id=vexypt&icon=6&color=11)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 Hi! My name is Daniel and I'm a backend developer <br>
 Add me on discord for comissions: `vexypt` <br>
